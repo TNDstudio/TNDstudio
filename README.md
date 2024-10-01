@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TNDstudio
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- 😄 Pronouns: Ball/Balls
-- ⚡ Fun fact: I am 77 meters short
+- 👀 I’m interested in:
+- 🌱 I’m currently learning:
+- 💞️ I’m looking to collaborate on:
+- 📫 How to reach me:
+- 😄 Pronouns: 
+- ⚡ Fun fact:
 
 <!---
 TNDstudio/TNDstudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
